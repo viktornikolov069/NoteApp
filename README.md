@@ -18,7 +18,7 @@ The following **functionality** is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://github.com/viktornikolov069/Tippy/blob/main/TippyGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough](https://github.com/viktornikolov069/NoteApp/blob/master/note_app_recycle_bug.gif)' />
+<img src='https://github.com/viktornikolov069/NoteApp/blob/master/note_app_recycle_bug.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
