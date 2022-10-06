@@ -12,7 +12,7 @@ The following **functionality** is completed:
 * [x] User can modify existing rows by clicking on them.
 
 **TO DO**
-* [ ] Fix the RecycleView DiffUtil bug.
+* [ ] Fix the Recycler View DiffUtil bug.
 
 ## Video Of RecyclerView Bug
 
