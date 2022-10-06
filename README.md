@@ -2,7 +2,8 @@
 
 ## *Viktor Nikolov*
 
-**NoteApp** is a simple app for creating and saving personal notes.
+**NoteApp** is a simple app for creating and saving personal notes. Some personal changes were made that differ from the original app made by Android Geek. There is some Bulgarian text added and also there are some changes to the buttons.
+
 
 ## Functionality
 
