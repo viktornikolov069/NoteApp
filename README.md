@@ -14,9 +14,9 @@ The following **functionality** is completed:
 **TO DO**
 * [ ] Fix the RecycleView DiffUtil bug.
 
-## Video Walkthrough
+## Video Of RecyclerView Bug
 
-Here's a walkthrough of implemented user stories:
+Here's a video of the bug. 
 
 <img src='https://github.com/viktornikolov069/NoteApp/blob/master/note_app_recycle_bug.gif' />
 
@@ -24,7 +24,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The main challenge is to fix the RecycleView bug. Users can't add more than 12 items without them beginning to repeat and change order. Some items are even lost.
+The main challenge is to fix the RecycleView bug. Users can't add more than 12 items without them beginning to repeat and change order. Some items are even lost. I think it has something to do with DiffUtil.
 
 git st
 ## License
