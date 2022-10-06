@@ -26,7 +26,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 The main challenge is to fix the RecycleView bug. Users can't add more than 12 items without them beginning to repeat and change order. Some items are even lost. I think it has something to do with DiffUtil.
 
-git st
+
 ## License
 
     Copyright [2022] [Viktor Nikolov]
