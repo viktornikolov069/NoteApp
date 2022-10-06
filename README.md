@@ -1,8 +1,8 @@
-# Budget Tracker
+#NoteApp
 
 ## *Viktor Nikolov*
 
-**NoteAppr** is a simple app for creating and saving personal notes.
+**NoteApp** is a simple app for creating and saving personal notes.
 
 ## Functionality
 
